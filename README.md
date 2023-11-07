@@ -12,8 +12,6 @@ Pre-requisites:
 Installing:
 
 1. Take a clone of the repo
-2. install the requirements in `requirements.txt`
-    - `pip install -r requirements.txt`
     
 
 Run project
